@@ -1,0 +1,18 @@
+{
+	"name": "puppeteer-for-nastiya",
+	"version": "1.0.0",
+	"description": "This is a little program to make nastiya's life easier",
+	"main": "app.js",
+	"dependencies": {
+		"puppeteer": "^7.1.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"start": "node example.js"
+	},
+	"keywords": [
+		"puppeteer"
+	],
+	"author": "Colombo Riccardo",
+	"license": "ISC"
+}
